@@ -8,10 +8,10 @@
 
 4. [Encryption](https://www.hackerrank.com/challenges/encryption/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/encryption.js)
 
-5. [Encryption](https://www.hackerrank.com/challenges/the-grid-search/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/grid-search.js)
+5. [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/grid-search.js)
 
-6. [Encryption](https://www.hackerrank.com/challenges/larrys-array/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/larrys-array.js)
+6. [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/larrys-array.js)
 
-7. [Encryption](https://www.hackerrank.com/challenges/3d-surface-area/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/3d-surface-area.js)
+7. [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/3d-surface-area.js)
 
-8. [Encryption](https://www.hackerrank.com/challenges/pairs/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/pairs.js)
+8. [Pairs](https://www.hackerrank.com/challenges/pairs/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/pairs.js)
