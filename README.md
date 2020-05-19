@@ -6,3 +6,12 @@
 
 3. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/is-balanced.js)
 
+4. [Encryption](https://www.hackerrank.com/challenges/encryption/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/encryption.js)
+
+5. [Encryption](https://www.hackerrank.com/challenges/the-grid-search/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/grid-search.js)
+
+6. [Encryption](https://www.hackerrank.com/challenges/larrys-array/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/larrys-array.js)
+
+7. [Encryption](https://www.hackerrank.com/challenges/3d-surface-area/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/3d-surface-area.js)
+
+8. [Encryption](https://www.hackerrank.com/challenges/pairs/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/pairs.js)
