@@ -15,3 +15,9 @@
 7. [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/3d-surface-area.js)
 
 8. [Pairs](https://www.hackerrank.com/challenges/pairs/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/pairs.js)
+
+9. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/almost-sorted.js)
+
+10. [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/powersum.js)
+
+11. [Organizing Containers Of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) ==>> [Solution](https://github.com/supreetagalpalli/Hackerrank/blob/master/organizing-containers-of-balls.js)
